@@ -3,8 +3,10 @@ Hello 👋
 I'm currently studying on 42 school in São Paulo which focus on back-end, mostly in C lang. I also finished a front-end course, from DevQuest.
 
 You can reach me here:
+
 [![linkedin](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white)](https://www.linkedin.com/in/felipe-nasser-24629523a)
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:felipecmnasser@gmail.com)
+
 
 
 Here is what I know the most:
