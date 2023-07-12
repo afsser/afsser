@@ -1,6 +1,6 @@
 Hello 👋 
 
-I'm currently studying on 42 school in São Paulo which focus on back-end, mostly in C lang. I also finished a front-end course, from DevQuest.
+I'm currently studying at 42 school in São Paulo which focuses mostly in back-end, through C lang. I've also finished the front-end course from DevQuest.
 
 You can reach me here:
 
