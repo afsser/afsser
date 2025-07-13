@@ -1,6 +1,6 @@
 Hello 👋 
 
-I'm currently studying software engineering at 42 school in São Paulo, using mostly C language. I've also finished the front-end course from DevQuest.
+I'm currently studying software engineering at 42 school in São Paulo, using mostly C and C++ languages. I've also finished the front-end course from DevQuest.
 
 You can reach me here:
 
